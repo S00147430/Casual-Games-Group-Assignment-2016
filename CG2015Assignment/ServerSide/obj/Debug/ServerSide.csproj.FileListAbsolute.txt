@@ -1,0 +1,114 @@
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\csc.exe
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\vbc.exe
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\VBCSCompiler.exe
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\ServerSide.dll.config
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\ServerSide.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\ServerSide.pdb
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Antlr3.Runtime.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Security.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Newtonsoft.Json.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Owin.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Net.Http.Formatting.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Helpers.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Http.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Http.WebHost.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Mvc.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Optimization.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Razor.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Deployment.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Razor.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\WebGrease.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Security.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Newtonsoft.Json.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Net.Http.Formatting.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Helpers.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Http.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Http.WebHost.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Mvc.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Optimization.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.Razor.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Deployment.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Razor.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\bin\Antlr3.Runtime.pdb
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\obj\Debug\ServerSide.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\ServerSide\obj\Debug\ServerSide.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\csc.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\System.Collections.Immutable.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\System.Reflection.Metadata.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\vbc.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\VBCSCompiler.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\roslyn\VBCSCompiler.exe.config
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\ServerSide.dll.config
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\ServerSide.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\ServerSide.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Antlr3.Runtime.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Security.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Web.Infrastructure.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Newtonsoft.Json.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Owin.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Net.Http.Formatting.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Helpers.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Http.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Http.WebHost.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Mvc.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Optimization.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Razor.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Deployment.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Razor.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\WebGrease.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.Owin.Security.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Newtonsoft.Json.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Net.Http.Formatting.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Helpers.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Http.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Http.WebHost.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Mvc.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Optimization.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.Razor.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Deployment.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\System.Web.WebPages.Razor.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Antlr3.Runtime.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.pdb

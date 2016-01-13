@@ -1,0 +1,58 @@
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\CG2015Assignment.exe
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\CG2015Assignment.pdb
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.exe
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.pdb
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Newtonsoft.Json.dll
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Newtonsoft.Json.xml
+c:\users\pearce\documents\visual studio 2015\Projects\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.csprojResolveAssemblyReference.cache
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\CG2015Assignment.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\CG2015Assignment.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Newtonsoft.Json.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\Newtonsoft.Json.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\CG2015Assignment\obj\x86\Debug\CG2015Assignment.csprojResolveAssemblyReference.cache
