@@ -1,0 +1,13 @@
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Chat.exe.config
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Chat.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Chat.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\obj\Debug\Chat.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\obj\Debug\Chat.pdb
+D:\CGames\CG2015Assignment\Chat\bin\Debug\Chat.exe.config
+D:\CGames\CG2015Assignment\Chat\obj\Debug\Chat.exe
+D:\CGames\CG2015Assignment\Chat\obj\Debug\Chat.pdb
