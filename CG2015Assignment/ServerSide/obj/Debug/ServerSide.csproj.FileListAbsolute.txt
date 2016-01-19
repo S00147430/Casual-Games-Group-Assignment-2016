@@ -112,3 +112,11 @@ D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Antlr3.Run
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.dll
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\obj\Debug\ServerSide.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\EntityFramework.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\EntityFramework.SqlServer.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\EntityFramework.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\EntityFramework.SqlServer.xml
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Register.exe
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Client.dll
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Register.pdb
+D:\Casual Games 2015 Group Assignment\CG2015Assignment\ServerSide\bin\Microsoft.AspNet.SignalR.Client.xml
