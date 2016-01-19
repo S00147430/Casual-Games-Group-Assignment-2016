@@ -22,11 +22,11 @@ namespace Login
             Console.Write("User Name:");
             name = Console.ReadLine();
 
-            SqlCommand cmd1 = new SqlCommand("SELECT Name FROM tmpusername WHERE _id=1", db.UsersDatabase;
+            //SqlCommand cmd1 = new SqlCommand("SELECT Name FROM tmpusername WHERE _id=1", db.UsersDatabase;
 
             SqlDataReader usernameRdr = null;
 
-            usernameRdr = cmd1.ExecuteReader();
+            //usernameRdr = cmd1.ExecuteReader();
 
             while (usernameRdr.Read())
             {

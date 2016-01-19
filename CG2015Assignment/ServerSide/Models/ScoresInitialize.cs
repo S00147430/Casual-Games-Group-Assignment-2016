@@ -10,7 +10,7 @@ namespace ServerSide.Models
     {
         protected override void Seed(UsersDb context)
         {
-            var initPlayers = new List<UsersCreate>
+            var initPlayers = new List<UserRegister>
             {
 
             };

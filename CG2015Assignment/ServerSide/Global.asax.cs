@@ -20,7 +20,7 @@ namespace ServerSide
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            Database.SetInitializer(new UserInitialize());
+            Database.SetInitializer(new UserInputHub.RegisterIntialize());
         }
     }
 }

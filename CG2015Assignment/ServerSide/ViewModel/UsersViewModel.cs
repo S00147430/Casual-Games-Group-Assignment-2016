@@ -10,6 +10,6 @@ namespace ServerSide.ViewModel
     {
         public int UsersCount { get; set; }
         public int AchievementsCount { get; set; }
-        public List<UsersCreate> UsersList { get; set; }
+        public List<UserRegister> UsersList { get; set; }
     }
 }
