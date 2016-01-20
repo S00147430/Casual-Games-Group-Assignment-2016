@@ -8,3 +8,33 @@ D:\Casual Games 2015 Group Assignment\CG2015Assignment\Register\bin\Debug\Micros
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.dll
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.xml
+D:\CGames\CG2015Assignment\Register\bin\Debug\Register.exe.config
+D:\CGames\CG2015Assignment\Register\bin\Debug\Register.exe
+D:\CGames\CG2015Assignment\Register\bin\Debug\Register.pdb
+D:\CGames\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\CGames\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.dll
+D:\CGames\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\CGames\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.xml
+D:\CGames\CG2015Assignment\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\CGames\CG2015Assignment\Register\obj\Debug\Register.exe
+D:\CGames\CG2015Assignment\Register\obj\Debug\Register.pdb
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.exe.config
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.exe
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.pdb
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.exe
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.pdb
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.exe.config
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.exe
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Register.pdb
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.dll
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\CGames\AnthonyCode\CG2015Assignment\Register\bin\Debug\Newtonsoft.Json.xml
+D:\CGames\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.exe
+D:\CGames\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.pdb
+D:\CGames\AnthonyCode\CG2015Assignment\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache

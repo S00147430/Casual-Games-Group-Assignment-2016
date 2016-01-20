@@ -10,12 +10,12 @@ namespace ServerSide.Controllers
 {
     public class HomeController : Controller
     {
-        UsersDb db = new UsersDb();
+        ModelUsers1 db = new ModelUsers1();
         UsersViewModel uvm = new UsersViewModel();
 
         public ActionResult Index()
         {
-            uvm.UsersList = db.UsersDatabase.Include("AchievementsList").ToList();
+            uvm.UsersList = db.UsersCreates.Include("AchievementsList").ToList();
             uvm.UsersCount = uvm.UsersList.Count();
             //uvm.UsersList.ForEach(users => uvm.UsersCount += movie.ActorsList.Count());
             ViewBag.Title = "Casual Games CA2";

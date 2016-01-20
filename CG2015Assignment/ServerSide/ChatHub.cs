@@ -8,9 +8,14 @@ namespace ServerSide
 {
     public class ChatHub : Hub
     {
-        public void Send(string name, string message)
+        public void Send(string message)
         {
-            Clients.All.broadcastMessage(name, message);
+            Clients.All.broadcastMessage(message);
+        }
+
+        public void CountUsers(int no)
+        {
+            Clients.All.broadcastMessage(no);
         }
 
         public ChatHub() : base()

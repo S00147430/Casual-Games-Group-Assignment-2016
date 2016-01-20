@@ -35,7 +35,7 @@ namespace ServerSide.Models
         public int Score { get; set; }
         [Key]
         public virtual int id { get; set; }
-        public virtual List<UserRegister> Scores { get; set; }
+        public virtual List<UserRegister> UsersScore { get; set; }
     }
 
     public class UsersDb : DbContext

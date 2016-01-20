@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/SpriteFonts/font.spritefont</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/characterselect.jpg</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/ContinueBttn.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/LoginBttn.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/PlayBttn.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/Player.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/Player2.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/Player3.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/Player4.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/projectile_blue.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/projectile_blue_super.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/projectile_green.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/projectile_red.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/RegBttn.png</File>
+    <File>G:/PearceProject/CGames/AnthonyCode/CG2015Assignment/ClientGame/Content/Sprites/space_background.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

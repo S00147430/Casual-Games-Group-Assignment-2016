@@ -8,3 +8,33 @@ D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Microsoft.
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.xml
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\obj\Debug\Chat.exe
 D:\Casual Games 2015 Group Assignment\CG2015Assignment\Chat\obj\Debug\Chat.pdb
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe.config
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.pdb
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.exe
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.pdb
+C:\Users\Pearce\Desktop\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe.config
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.pdb
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.dll
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.xml
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.exe
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.pdb
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe.config
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.exe
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.pdb
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.exe
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Chat.pdb
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.dll
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\bin\Debug\Newtonsoft.Json.xml
+G:\PearceProject\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\CGames\AnthonyCode\CG2015Assignment\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache

@@ -10,12 +10,12 @@ namespace ServerSide.Controllers
 {
     public class UserController : Controller
     {
-        UsersDb db = new UsersDb();
+        ModelUsers1 db = new ModelUsers1();
         UsersViewModel uvm = new UsersViewModel();
 
         public ActionResult Index()
         {
-            uvm.UsersList = db.UsersDatabase.Include("UsersList").ToList();
+            uvm.UsersList = db.UsersCreates.Include("UsersList").ToList();
             uvm.UsersCount = uvm.UsersList.Count();
             //uvm.UsersList.ForEach(users => uvm.UsersCount += movie.ActorsList.Count());
             ViewBag.Title = "CA2";

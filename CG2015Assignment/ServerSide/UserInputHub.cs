@@ -10,8 +10,11 @@ namespace ServerSide
 {
     public class UserInputHub : Hub
     {
+        bool isValid;
         public static string v1 = "", v2 = "";
-        UsersDb db = new UsersDb();
+        ModelUsers1 db = new ModelUsers1();
+
+        public static List<string> currentPlayers;
 
         //Receive values
 
@@ -21,9 +24,46 @@ namespace ServerSide
         //    v2 = password;
         //}
 
-        public void Send(string name, string password)
+        public void SendRegDetails(string name, string password)
         {
             v1 = name; v2 = password;
+            db.UsersCreates.Add(new UsersCreate { PlayerName = v1, Password = v2 });
+            db.SaveChanges();
+        }
+
+        public void RequestValidation(string name, string password)
+        {
+            isValid = false;
+            foreach(var user in db.UsersCreates)
+            {
+                if (user.PlayerName == name && user.Password == password)
+                {
+                    isValid = true;
+                    //currentPlayers.Add(name);
+                    //Clients.Caller.sendPlayerNum(currentPlayers.IndexOf(name));
+                }
+
+            }
+        }
+
+        public void RequestScoreboard(string name)
+        {
+            foreach (var user in db.UsersCreates)
+            {
+                if (user.PlayerName == name)
+                {
+                    foreach (var score in db.ScoreBoards)
+                    {
+                        if (user.ScoreBoard_id == score.id)
+                            Clients.Caller.sendScoreboard(score.Score);
+                    }
+                }
+            }
+        }
+
+        public void RequestValidated()
+        {
+            Clients.Caller.sendValidated(isValid);
         }
 
 
@@ -37,21 +77,20 @@ namespace ServerSide
         //    new UsersCreate { PlayerName = , Password = "Xavier"},
         //};
 
-        public class RegisterIntialize : DropCreateDatabaseAlways<UsersDb>
-        {
-            //Take in Values
+        //public class RegisterIntialize : DropCreateDatabaseAlways<ModelUsers1>
+        //{
+        //    //Take in Values
 
-            protected override void Seed(UsersDb context)
-            {
-                var initPlayers = new List<UserRegister>
-                {
-                    new UserRegister { PlayerName = v1, Password = v2, AchievementsList = new List<achievements> {
-                } }
-                    };
+        //    protected override void Seed(ModelUsers1 context)
+        //    {
+        //        var initPlayers = new List<UsersCreate>
+        //        {
+        //            new UsersCreate { PlayerName = v1, Password = v2}
+        //        };
 
-                initPlayers.ForEach(u => context.UsersDatabase.Add(u));
-                context.SaveChanges();
-            }
-        }
+        //        initPlayers.ForEach(u => context.UsersCreates.Add(u));
+        //        context.SaveChanges();
+        //    }
+        //}
     }  
 }
